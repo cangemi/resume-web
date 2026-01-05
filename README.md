@@ -1,6 +1,6 @@
-# Portifólio - Projeto Pessoal
+# Currículo Web - Currículo Pessoal
 
-Um portfólio pessoal feito com Vite + Vue 3 (Composition API) para apresentar projetos, habilidades e contato.
+Um currículo web (currículo online) feito com Vite + Vue 3 (Composition API) para apresentar experiência, habilidades e contato.
 
 ---
 
@@ -67,11 +67,11 @@ Licença MIT — sinta-se livre para usar e modificar este projeto. Adicione cr�
 
 Se quiser entrar em contato ou colaborar, abra uma issue ou PR no GitHub.
 
-Boa sorte e obrigado por ver o projeto! 🚀
+# Boa sorte e obrigado por ver o projeto! 🚀
 
-# portifolio
+# Currículo Web
 
-This template should help get you started developing with Vue 3 in Vite.
+Este template ajuda a começar com Vue 3 em Vite.
 
 ## Recommended IDE Setup
 
